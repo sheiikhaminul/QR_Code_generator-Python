@@ -8,9 +8,10 @@
 
 ###Uses the qrcode library with Pillow (PilImage) for color support.
 
-## Demo
+### Sample QR CODES (created)
 
-### Sample QR CODES
+#### 1.Facebook QR Code
 ![FB QR](QR_CODE_generator/facebook.png)
+#### 2.Toutube QR Code
 ![Youtube QR](QR_CODE_generator/youtube.png)
 
