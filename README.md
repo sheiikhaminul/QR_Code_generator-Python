@@ -12,6 +12,6 @@
 
 #### 1.Facebook QR Code
 ![FB QR](QR_CODE_generator/facebook.png)
-#### 2.Toutube QR Code
+#### 2.Youtube QR Code
 ![Youtube QR](QR_CODE_generator/youtube.png)
 
