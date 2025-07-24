@@ -17,7 +17,7 @@ def qr_generator(filepath):
     with open("file.txt","r") as file:
         content=file.readlines()
     url=content[0].strip()
-    image_name=content[1].strip()
+    image_name=content[1].strip()#remove spaces,tabs,newline from both ends(not inside)
     back_color=content[2].strip()
     front_color=content[3].strip()
     qr=qrcode.QRCode(
